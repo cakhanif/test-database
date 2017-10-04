@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
+	'hostname' => 'http://db-db.1d35.starter-us-east-1.openshiftapps.com',
+	'username' => 'cakhanif',
+	'password' => 'cakhanif123',
 	'database' => 'auth_system',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
